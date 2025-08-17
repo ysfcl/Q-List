@@ -15,5 +15,5 @@ Bu repository içerisinde Bursa Teknik Üniversitesi BLM-121 Nesneye Yönelik Pr
 2.  Kullandığınız Java IDE'sinde çalıştırmak için kod dosyasını seçin.
 3.  Derleyiciyi çalıştırın.
 
-Dipnot: Bu bir proje reposu değildir.
+Dipnot: Bu bir proje reposu değildir,yalnızca konu başlıkları üzerinden yazılmış örnek kod parçacıklarını içerir. Her dosya bağımsızdır ve birbirine bağlı değildir.
 
