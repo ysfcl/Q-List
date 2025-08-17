@@ -9,7 +9,8 @@ Bu repository içerisinde Bursa Teknik Üniversitesi BLM-121 Nesneye Yönelik Pr
 5. StringBuilder
 6. Multihreading
 7. Cloneable Interface
-# Nasıl Çalıştırılır?
+
+## Nasıl Çalıştırılır?
 1.  İlgili Test dosyasını indirin.
 2.  Kullandığınız Java IDE'sinde çalıştırmak için kod dosyasını seçin.
 3.  Derleyiciyi çalıştırın.
