@@ -7,7 +7,7 @@ Bu repository içerisinde Bursa Teknik Üniversitesi BLM-121 Nesneye Yönelik Pr
 3. Encapsulation
 4. Exception Yapısı
 5. StringBuilder
-6. Multihreading
+6. Multithreading
 7. Cloneable Interface
 
 ## Nasıl Çalıştırılır?
